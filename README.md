@@ -24,7 +24,7 @@ The Datasets and the source code mentioned in the paper are shared in this repos
 - Source code of `SMACD'18 [13]` can be found in [link](https://github.com/unnir/lithography_hotspot_detection)
 - We have not publicly released the source code of `VTS'18 [26]` yet. Therefore, to obtain the source code of `VTS'18 [26]`, please contact us directly.
 
-
+### Citation
 ```
 @inproceedings{reddy2019machine,
   title={Machine Learning-Based Hotspot Detection: Fallacies, Pitfalls and Marching Orders},
