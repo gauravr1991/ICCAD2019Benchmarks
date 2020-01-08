@@ -1,5 +1,6 @@
-# ICCAD-2019_Paper-341
+# ICCAD-2019 Benchmarks
 ## Machine Learning-Based Hotspot Detection: Fallacies, Pitfalls and Marching Orders 
+Link to the paper: [https://ieeexplore.ieee.org/document/8942128]
 
 The Datasets and the source code mentioned in the paper are shared in this repository.
 
@@ -19,6 +20,18 @@ The Datasets and the source code mentioned in the paper are shared in this repos
 - The source code (Jupyter notebook (Python 2.7)), training and testing datasets, and the pre-trained models are made available.
 - Users can either use the pre-trained models or re-train them locally. Instructions to switch between the two modes, to change dataset paths etc., are provided in the main code.
 ### Source code of State-Of-The-Art (SOTA) methods
-- Source code of `DAC'17 [24]` and `TCAD'18 [23]` can be found in [link](https://github.com/phdyang007/dlhsd)
-- Source code of `SMACD'18 [1]` can be found in [link](https://github.com/unnir/lithography_hotspot_detection)
-- Authors of `VTS'18 [15]` have not publicly released their code yet. It was shared with us privately. Therefore, to obtain the source code of `VTS'18 [15]`, please contact the corresponding authors directly.
+- Source code of `DAC'17 [12]` and `TCAD'18 [11]` can be found in [link](https://github.com/phdyang007/dlhsd)
+- Source code of `SMACD'18 [13]` can be found in [link](https://github.com/unnir/lithography_hotspot_detection)
+- We have not publicly released the source code of `VTS'18 [26]` yet. Therefore, to obtain the source code of `VTS'18 [26]`, please contact us directly.
+
+
+```
+@inproceedings{reddy2019machine,
+  title={Machine Learning-Based Hotspot Detection: Fallacies, Pitfalls and Marching Orders},
+  author={Reddy, Gaurav Rajavendra and Madkour, Kareem and Makris, Yiorgos},
+  booktitle={2019 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)},
+  pages={1--8},
+  year={2019},
+  organization={IEEE}
+}
+```
